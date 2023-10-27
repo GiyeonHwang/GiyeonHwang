@@ -1,7 +1,13 @@
-### Hi there 👋
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=안녕하세요%20황기연입니다.)
-<!--
-**GiyeonHwang/GiyeonHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+
+<div align=center> 
+
+  ![Giyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiyeonHwang&show_icons=true&theme=buefy&include_all_commits=true)
+  [![GiyeonHwang github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GiyeonHwang&show_icons=true&hide_border=true&title_color=8e72dc&icon_color=004386&layout=compact)](https://github.com/hoejun1208)
+
+</div>
 
 Here are some ideas to get you started:
 
