@@ -1,6 +1,6 @@
 <div align=center>
   
- ![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=안녕하세요%20황기연입니다.)
+ ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=안녕하세요%20황기연입니다.)
 
 </div>
 
