@@ -38,7 +38,7 @@
 ### cloud
   <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
   <img src="https://img.shields.io/badge/surge-9BF0E1?style=for-the-badge&logo=surge&logoColor=white">
-  <img src="https://img.shields.io/badge/netlify?style=for-the-badge">
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
 <br>
 </div>
 
