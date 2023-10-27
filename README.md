@@ -1,6 +1,6 @@
 <div align=center>
   
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=안녕하세요%20황기연입니다.)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm%20Giyeon)
 
 </div>
 
