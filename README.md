@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=안녕하세요. 개발자 황기연입니다.%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=개발자%황기연입니다.)
 <!--
 **GiyeonHwang/GiyeonHwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
