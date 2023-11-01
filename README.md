@@ -6,7 +6,6 @@
 
 <div align=center> 
 
-  ![Giyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiyeonHwang&show_icons=true&theme=buefy&include_all_commits=true)
   [![GiyeonHwang github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GiyeonHwang&show_icons=true&hide_border=true&title_color=8e72dc&icon_color=004386&layout=compact)](https://github.com/GiyeonHwang)
 
 </div>
